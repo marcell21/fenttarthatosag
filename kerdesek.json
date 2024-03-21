@@ -1,225 +1,204 @@
 {
-    "kerdesek": [
+    "kerdesek":[
         {
             "kerdes": "Mikor szoktál felkelni hétvégente?",
-            "valaszok": [
-                {
-                    "valasz": "Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok.",
-                    "pont": 1
-                },
-                {
-                    "valasz": "Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
-                    "pont": 3
-                }
-            ]
+            "valasz1": {
+                "text": "Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok.",
+                "pont": 1
+            },
+            "valasz2": {
+                "text": "Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
+                "pont": 3
+            }
+
         },
         {
             "kerdes": "Szoktál esténként nassolni?",
-            "valaszok": [
-                {
-                    "valasz": "Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program. ;)",
-                    "pont": 3
-                },
-                {
-                    "valasz": "Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Este sosem. Vigyázok az alakomra!",
-                    "pont": 1
-                }
-            ]
+            "valasz1": {
+                "text": "Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program.",
+                "pont": 3
+            },
+            "valasz2": {
+                "text": "Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Este sosem. Vigyázok az alakomra!",
+                "pont": 1
+            }
         },
         {
             "kerdes": "Mennyit sportolsz?",
-            "valaszok": [
-                {
-                    "valasz": "A sport az életem. Minden nap van valami: edzés, futás, aerobic…",
-                    "pont": 1
-                },
-                {
-                    "valasz": "Heti 3 alkalommal biztos. Szeretek mozogni.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Biztos, hogy nem. Lustaság fél egészség!",
-                    "pont": 3
-                }
-            ]
+            "valasz1": {
+                "text": "A sport az életem. Minden nap van valami: edzés, futás, aerobic… ",
+                "pont": 1
+            },
+            "valasz2": {
+                "text": "Heti 3 alkalommal biztos. Szeretek mozogni",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Biztos, hogy nem. Lustaság fél egészség! ",
+                "pont": 3
+            }
         },
         {
             "kerdes": "Mi a kedvenc sportod?",
-            "valaszok": [
-                {
-                    "valasz": "Csapatjátékok leginkább",
-                    "pont": 1
-                },
-                {
-                    "valasz": "Az egyszemélyes sportok híve vagyok",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Sport? Mi is az?",
-                    "pont": 3
-                }
-            ]
+            "valasz1": {
+                "text": "Csapatjátékok leginkább",
+                "pont": 1
+            },
+            "valasz2": {
+                "text": "Az egyszemélyes sportok híve vagyok",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Sport? Mi is az? ",
+                "pont": 3
+            }
         },
+
         {
             "kerdes": "Mi az, amit a legszívesebben megennél most?",
-            "valaszok": [
-                {
-                    "valasz": "Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Egy lazacfilé salátával és dresszinggel jólesne most.",
-                    "pont": 1
-                },
-                {
-                    "valasz": "Elég lesz egy csokitorta is, köszönöm!",
-                    "pont": 3
-                }
-            ]
+            "valasz1": {
+                "text": "Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
+                "pont": 2
+            },
+            "valasz2": {
+                "text": "Egy lazacfilé salátával és dresszinggel jólesne most.",
+                "pont": 1
+            },
+            "valasz3": {
+                "text": "Elég lesz egy csokitorta is, köszönöm!",
+                "pont": 3
+            }
         },
         {
             "kerdes": "Milyen táplálékkiegészítőket szedsz rendszeresen?",
-            "valaszok": [
-                {
-                    "valasz": "Az meg mi?",
-                    "pont": 3
-                },
-                {
-                    "valasz": "Vitaminokat, abból is inkább C-, D vitamin.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
-                    "pont": 1
-                }
-            ]
+            "valasz1": {
+                "text": "Az meg mi?",
+                "pont": 3
+            },
+            "valasz2": {
+                "text": "Vitaminokat, abból is inkább C-, D vitamin.",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
+                "pont": 1
+            }
         },
         {
             "kerdes": "Mennyi húst eszel egy héten?",
-            "valaszok": [
-                {
-                    "valasz": "Legalább 4-5 kg-ot biztosan. Kell az erő.",
-                    "pont": 3
-                },
-                {
-                    "valasz": "Általában 2 kg, vagy annál kevesebb.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Nem eszem húst, vegetáriánus vagyok.",
-                    "pont": 1
-                }
-            ]
+            "valasz1": {
+                "text": "Legalább 4-5 kg-ot biztosan. Kell az erő. ",
+                "pont": 3
+            },
+            "valasz2": {
+                "text": ") Általában 2 kg, vagy annál kevesebb",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Nem eszem húst, vegetáriánus vagyok. ",
+                "pont": 1
+            }
         },
         {
             "kerdes": "Próbáltad már a húshelyettesítő termékeket?",
-            "valaszok": [
-                {
-                    "valasz": "Igen, nekem ízlett.",
-                    "pont": 1
-                },
-                {
-                    "valasz": "Nem, minek? Ha húst akarok enni, akkor azt eszem.",
-                    "pont": 3
-                },
-                {
-                    "valasz": "Igen, de nem az én világom.",
-                    "pont": 2
-                }
-            ]
+            "valasz1": {
+                "text": "Igen, nekem ízlett.",
+                "pont": 1
+            },
+            "valasz2": {
+                "text": "Nem, minek? Ha húst akarok enni, akkor azt eszem.",
+                "pont": 3
+            },
+            "valasz3": {
+                "text": "Igen, de nem az én világom.",
+                "pont": 2
+            }
         },
         {
             "kerdes": "Mennyi tejterméket fogyasztasz?",
-            "valaszok": [
-                {
-                    "valasz": "Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.",
-                    "pont": 3
-                },
-                {
-                    "valasz": "Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Nem eszem ilyesmit. Ha igen, az is inkább növényi.",
-                    "pont": 1
-                }
-            ]
+            "valasz1": {
+                "text": "Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.",
+                "pont": 3
+            },
+            "valasz2": {
+                "text": "Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos. ",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Nem eszem ilyesmit. Ha igen, az is inkább növényi. ",
+                "pont": 1
+            }
         },
         {
             "kerdes": "Tudod mit jelent a mikrobiom?",
-            "valaszok": [
-                {
-                    "valasz": "A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok.",
-                    "pont": 1
-                },
-                {
-                    "valasz": "A bélben található rossz baktériumok.",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat.",
-                    "pont": 3
-                }
-            ]
+            "valasz1": {
+                "text": "A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok. ",
+                "pont": 1
+            },
+            "valasz2": {
+                "text": "A bélben található rossz baktériumok. ",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat.",
+                "pont": 3
+            }
         },
         {
             "kerdes": "Mennyi vizet iszol egy nap?",
-            "valaszok": [
-                {
-                    "valasz": " 1,5 L lecsúszik nagy nehezen. ",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Inkább Cola, Fanta, Hell. Ez számít? ",
-                    "pont": 3
-                },
-                {
-                    "valasz": "2-2,5 L napi szinten megvan.",
-                    "pont": 1
-                }
-            ]
+            "valasz1": {
+                "text": "1,5 L lecsúszik nagy nehezen.",
+                "pont": 2
+            },
+            "valasz2": {
+                "text": "Inkább Cola, Fanta, Hell. Ez számít? ",
+                "pont": 3
+            },
+            "valasz3": {
+                "text": "2-2,5 L napi szinten megvan.",
+                "pont": 1
+            }
         },
         {
             "kerdes": "Mennyi a képernyőidőd a telefonodon egy hét alatt?",
-            "valaszok": [
-                {
-                    "valasz": "50 óra fölött ",
-                    "pont": 3
-                },
-                {
-                    "valasz": "25 óra vagy alatta ",
-                    "pont": 1
-                },
-                {
-                    "valasz": "50 és 25 óra között ",
-                    "pont": 2
-                }
-            ]
+            "valasz1": {
+                "text": "50 óra fölött",
+                "pont": 3
+            },
+            "valasz2": {
+                "text": "25 óra vagy alatta",
+                "pont": 1
+            },
+            "valasz3": {
+                "text": "50 és 25 óra között",
+                "pont": 2
+            }
         },
         {
-            "kerdes": " Hogy alszol el?",
-            "valaszok": [
-                {
-                    "valasz": "Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám. ",
-                    "pont": 1
-                },
-                {
-                    "valasz": "Tévézek vagy zenét hallgatok előtte. ",
-                    "pont": 2
-                },
-                {
-                    "valasz": "Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom. ",
-                    "pont": 3
-                }
-            ]
+            "kerdes": "Hogy alszol el?",
+            "valasz1": {
+                "text": "Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám.",
+                "pont": 1
+            },
+            "valasz2": {
+                "text": "Tévézek vagy zenét hallgatok előtte.",
+                "pont": 2
+            },
+            "valasz3": {
+                "text": "Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom.",
+                "pont": 3
+            }
         }
+
+
     ]
+
 }
