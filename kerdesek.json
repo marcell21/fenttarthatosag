@@ -1,5 +1,5 @@
 {
-    "kerdesek":[
+    "kerdesek": [
         {
             "kerdes": "Mikor szoktál felkelni hétvégente?",
             "valasz1": {
@@ -14,21 +14,20 @@
                 "text": "Rosszul alszom, ezért mindig addig alszom, amíg csak lehet.",
                 "pont": 3
             }
-
         },
         {
             "kerdes": "Szoktál esténként nassolni?",
             "valasz1": {
-                "text": "Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program.",
-                "pont": 3
+                "text": "Este sosem. Vigyázok az alakomra!",
+                "pont": 1
             },
             "valasz2": {
                 "text": "Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.",
                 "pont": 2
             },
             "valasz3": {
-                "text": "Este sosem. Vigyázok az alakomra!",
-                "pont": 1
+                "text": "Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program.",
+                "pont": 3
             }
         },
         {
@@ -61,16 +60,15 @@
                 "pont": 3
             }
         },
-
         {
             "kerdes": "Mi az, amit a legszívesebben megennél most?",
             "valasz1": {
-                "text": "Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
-                "pont": 2
-            },
-            "valasz2": {
                 "text": "Egy lazacfilé salátával és dresszinggel jólesne most.",
                 "pont": 1
+            },
+            "valasz2": {
+                "text": "Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
+                "pont": 2
             },
             "valasz3": {
                 "text": "Elég lesz egy csokitorta is, köszönöm!",
@@ -80,31 +78,31 @@
         {
             "kerdes": "Milyen táplálékkiegészítőket szedsz rendszeresen?",
             "valasz1": {
-                "text": "Az meg mi?",
-                "pont": 3
+                "text": "Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek. ",
+                "pont": 1
             },
             "valasz2": {
                 "text": "Vitaminokat, abból is inkább C-, D vitamin.",
                 "pont": 2
             },
             "valasz3": {
-                "text": "Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
-                "pont": 1
+                "text": "Az meg mi?",
+                "pont": 3
             }
         },
         {
             "kerdes": "Mennyi húst eszel egy héten?",
             "valasz1": {
-                "text": "Legalább 4-5 kg-ot biztosan. Kell az erő. ",
-                "pont": 3
+                "text": "Nem eszem húst, vegetáriánus vagyok. ",
+                "pont": 1
             },
             "valasz2": {
                 "text": ") Általában 2 kg, vagy annál kevesebb",
                 "pont": 2
             },
             "valasz3": {
-                "text": "Nem eszem húst, vegetáriánus vagyok. ",
-                "pont": 1
+                "text": "Legalább 4-5 kg-ot biztosan. Kell az erő. ",
+                "pont": 3
             }
         },
         {
@@ -114,27 +112,27 @@
                 "pont": 1
             },
             "valasz2": {
-                "text": "Nem, minek? Ha húst akarok enni, akkor azt eszem.",
-                "pont": 3
-            },
-            "valasz3": {
                 "text": "Igen, de nem az én világom.",
                 "pont": 2
+            },
+            "valasz3": {
+                "text": "Nem, minek? Ha húst akarok enni, akkor azt eszem.",
+                "pont": 3
             }
         },
         {
             "kerdes": "Mennyi tejterméket fogyasztasz?",
             "valasz1": {
-                "text": "Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.",
-                "pont": 3
+                "text": "Nem eszem ilyesmit. Ha igen, az is inkább növényi. ",
+                "pont": 1
             },
             "valasz2": {
                 "text": "Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos. ",
                 "pont": 2
             },
             "valasz3": {
-                "text": "Nem eszem ilyesmit. Ha igen, az is inkább növényi. ",
-                "pont": 1
+                "text": "Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.",
+                "pont": 3
             }
         },
         {
@@ -155,31 +153,31 @@
         {
             "kerdes": "Mennyi vizet iszol egy nap?",
             "valasz1": {
+                "text": "2-2,5 L napi szinten megvan.",
+                "pont": 1
+            },
+            "valasz2": {
                 "text": "1,5 L lecsúszik nagy nehezen.",
                 "pont": 2
             },
-            "valasz2": {
+            "valasz3": {
                 "text": "Inkább Cola, Fanta, Hell. Ez számít? ",
                 "pont": 3
-            },
-            "valasz3": {
-                "text": "2-2,5 L napi szinten megvan.",
-                "pont": 1
             }
         },
         {
             "kerdes": "Mennyi a képernyőidőd a telefonodon egy hét alatt?",
             "valasz1": {
-                "text": "50 óra fölött",
-                "pont": 3
-            },
-            "valasz2": {
                 "text": "25 óra vagy alatta",
                 "pont": 1
             },
-            "valasz3": {
-                "text": "50 és 25 óra között",
+            "valasz2": {
+                "text": "50 és 25 óra között ",
                 "pont": 2
+            },
+            "valasz3": {
+                "text": "50 óra fölött",
+                "pont": 3
             }
         },
         {
@@ -197,8 +195,5 @@
                 "pont": 3
             }
         }
-
-
     ]
-
 }
